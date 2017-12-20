@@ -55,7 +55,7 @@
                     </archive>
                 </configuration>
             </plugin>
-            <plugin>
+            <!-- <plugin>
                 <groupId>net.serenity-bdd.maven.plugins</groupId>
                 <artifactId>serenity-maven-plugin</artifactId>
                 <version>${thucydides.version}</version>
@@ -68,7 +68,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin> -->
         </plugins>
     </build>
     <profiles>
